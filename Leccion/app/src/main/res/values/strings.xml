@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lección</string>
+    <string name="usuario">Usuario</string>
+
+    <string name="nombre">Bienvenido</string>
+    <string name="numero">Número</string>
+    <string name="aciertos">Aciertos</string>
+
+    <!-- Botones -->
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_uno">1</string>
+    <string name="btn_dos">2</string>
+    <string name="btn_tres">3</string>
+    <string name="btn_cuatro">4</string>
+    <string name="btn_cinco">5</string>
+
+    <string name="btn_final">Final</string>
+</resources>

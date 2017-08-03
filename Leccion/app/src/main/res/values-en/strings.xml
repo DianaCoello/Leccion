@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lesson</string>
+    <string name="usuario">Usser</string>
+
+    <string name="nombre">Welcome</string>
+    <string name="numero">Number</string>
+    <string name="aciertos">Aciertos</string>
+
+    <!-- Botones -->
+    <string name="btn_siguiente">Next</string>
+    <string name="btn_uno">1</string>
+    <string name="btn_dos">2</string>
+    <string name="btn_tres">3</string>
+    <string name="btn_cuatro">4</string>
+    <string name="btn_cinco">5</string>
+    <string name="btn_final">Finish</string>
+
+</resources>
